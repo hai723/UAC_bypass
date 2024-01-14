@@ -1,3 +1,3 @@
 UAC bypass by hai1723
 
-uac bypass for cmd
+uac bypass for bat file
